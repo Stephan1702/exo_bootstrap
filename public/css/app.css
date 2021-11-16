@@ -17257,8 +17257,9 @@ section .wallpaper {
   margin-bottom: 20px;
 }
 
-body {
-  margin-inline: 30px;
+.navfooter {
+  background-color: #199ebc;
+  height: 450px;
 }
 
 /*# sourceMappingURL=app.css.map */
