@@ -17232,5 +17232,33 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+nav {
+  height: 110px;
+  background-color: #199ebc;
+}
+nav .headnav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+nav .headnav .imgnav {
+  width: 100px;
+  height: 70px;
+  margin-left: 20px;
+}
+
+section {
+  text-align: center;
+}
+section .wallpaper {
+  height: 420px;
+  width: 1500px;
+  margin-bottom: 20px;
+}
+
+body {
+  margin-inline: 30px;
+}
 
 /*# sourceMappingURL=app.css.map */
